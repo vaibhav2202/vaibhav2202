@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaibhav2202
+- 👋 Hi, I’m Vaibhav Dighe
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Machine Learning algorithms and prediction models
 - 💞️ I’m looking to collaborate on Machine Learning projects.
