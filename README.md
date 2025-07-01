@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vaibhav Dighe
-- 👀 I’m interested in Data Science.
+- 👀 I’m a Data Scientist.
 - 🌱 I’m currently learning Machine Learning algorithms and prediction models
-- 💞️ I’m looking to collaborate on Machine Learning projects.
+- 💞️ I’m looking to collaborate on Machine Learning / AI projects.
 - 📫 You can reach me on my email at vaibhav.dd73@gmail.com
 
 <!---
